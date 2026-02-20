@@ -1,6 +1,11 @@
 
 > Abra esta pagina en [https://lgonvaz009.github.io/hola-extension/](https://lgonvaz009.github.io/hola-extension/)
 
+## ¿Qué es esto?
+
+Este repositorio ejemplifica cómo crear una extensión personalizada para usarla en **Microsoft Makecode**. Su utilidad radica en conocer la estructura de archivos y la mecánica para incorporar la extensión en un proyecto de Makecode. 
+Sólo incluye un bloque **Saludar** que simplemente muestra un mensaje en el panel de LEDs de la **Micro:bit**.
+
 ## Usar como extensión
 
 Este repositorio puede ser añadido como una **extensión** en MakeCode.
